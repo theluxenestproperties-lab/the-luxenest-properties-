@@ -296,6 +296,7 @@ button{font-family:'Jost',sans-serif}
     <a href="index.html">Home</a>
     <a href="services.html">Services</a>
     <a href="properties.html">Properties</a>
+    <a href="luxenest-maison-section.html">Luxenest Maison</a>
     <a href="earnings.html">Earnings</a>
     <a href="about.html">About</a>
     <a href="blog.html">Blog</a>
@@ -310,6 +311,7 @@ button{font-family:'Jost',sans-serif}
   <a href="index.html">Home</a>
   <a href="services.html">Services</a>
   <a href="properties.html">Properties</a>
+  <a href="luxenest-maison-section.html">Luxenest Maison</a>
   <a href="earnings.html">Earnings</a>
   <a href="about.html">About</a>
   <a href="blog.html">Blog</a>
@@ -337,7 +339,7 @@ button{font-family:'Jost',sans-serif}
   </div>
 </section>
 
-<!-- SERVICES -->
+<!-- SERVICESr -->
 <section class="svc-section">
   <div class="svc-header reveal">
     <div>
